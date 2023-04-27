@@ -1,0 +1,13 @@
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\bin\Debug\netcoreapp3.1\Assignment1Q5.exe
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\bin\Debug\netcoreapp3.1\Assignment1Q5.deps.json
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\bin\Debug\netcoreapp3.1\Assignment1Q5.runtimeconfig.json
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\bin\Debug\netcoreapp3.1\Assignment1Q5.runtimeconfig.dev.json
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\bin\Debug\netcoreapp3.1\Assignment1Q5.dll
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\bin\Debug\netcoreapp3.1\Assignment1Q5.pdb
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\obj\Debug\netcoreapp3.1\Assignment1Q5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\obj\Debug\netcoreapp3.1\Assignment1Q5.AssemblyInfoInputs.cache
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\obj\Debug\netcoreapp3.1\Assignment1Q5.AssemblyInfo.cs
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\obj\Debug\netcoreapp3.1\Assignment1Q5.csproj.CoreCompileInputs.cache
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\obj\Debug\netcoreapp3.1\Assignment1Q5.dll
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\obj\Debug\netcoreapp3.1\Assignment1Q5.pdb
+C:\Users\KETAKPAT\source\repos\Assignment1Q5\Assignment1Q5\obj\Debug\netcoreapp3.1\Assignment1Q5.genruntimeconfig.cache

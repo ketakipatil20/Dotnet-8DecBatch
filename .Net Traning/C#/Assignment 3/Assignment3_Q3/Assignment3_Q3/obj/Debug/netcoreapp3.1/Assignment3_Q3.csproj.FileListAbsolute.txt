@@ -1,0 +1,14 @@
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\bin\Debug\netcoreapp3.1\Assignment3_Q3.exe
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\bin\Debug\netcoreapp3.1\Assignment3_Q3.deps.json
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\bin\Debug\netcoreapp3.1\Assignment3_Q3.runtimeconfig.json
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\bin\Debug\netcoreapp3.1\Assignment3_Q3.runtimeconfig.dev.json
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\bin\Debug\netcoreapp3.1\Assignment3_Q3.dll
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\bin\Debug\netcoreapp3.1\Assignment3_Q3.pdb
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\obj\Debug\netcoreapp3.1\Assignment3_Q3.csproj.AssemblyReference.cache
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\obj\Debug\netcoreapp3.1\Assignment3_Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\obj\Debug\netcoreapp3.1\Assignment3_Q3.AssemblyInfoInputs.cache
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\obj\Debug\netcoreapp3.1\Assignment3_Q3.AssemblyInfo.cs
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\obj\Debug\netcoreapp3.1\Assignment3_Q3.csproj.CoreCompileInputs.cache
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\obj\Debug\netcoreapp3.1\Assignment3_Q3.dll
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\obj\Debug\netcoreapp3.1\Assignment3_Q3.pdb
+C:\Users\KETAKPAT\source\repos\Assignment3_Q3\Assignment3_Q3\obj\Debug\netcoreapp3.1\Assignment3_Q3.genruntimeconfig.cache

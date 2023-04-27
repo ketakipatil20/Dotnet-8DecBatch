@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assignment NO 5 Q3 and Q5/1.0.0": {
+        "runtime": {
+          "Assignment NO 5 Q3 and Q5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment NO 5 Q3 and Q5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

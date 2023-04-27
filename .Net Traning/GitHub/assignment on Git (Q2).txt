@@ -1,0 +1,459 @@
+
+
+GITHUB Question 2
+
+                Section 1
+
+
+ketakpat@LIN19005240 MINGW64 ~
+$ mkdir Assignments
+
+ketakpat@LIN19005240 MINGW64 ~
+$ cd Assignments
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments
+$ git init
+Initialized empty Git repository in C:/Users/KETAKPAT/Assignments/.git/
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ touch README.txt
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git commit -m "first"
+[master (root-commit) 900dd09] first
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+ create mode 100644 README.txt
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git branch html-assignments
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git checkout html-assignments
+Switched to branch 'html-assignments'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (html-assignments)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (html-assignments)
+$ git commit -m "second"
+[html-assignments f0afe9d] second
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 13 insertions(+)
+ create mode 100644 index.html
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (html-assignments)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (html-assignments)
+$ git commit -m "updated"
+[html-assignments f9d4701] updated
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (html-assignments)
+$ git checkout master
+Switched to branch 'master'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git commit -m "readonly"
+[master 7fc2b2d] readonly
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git checkout html assignments
+error: pathspec 'html' did not match any file(s) known to git
+error: pathspec 'assignments' did not match any file(s) known to git
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git checkout html-assignments
+Switched to branch 'html-assignments'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (html-assignments)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (html-assignments)
+$ git commit -m "commit"
+[html-assignments f239c29] commit
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (html-assignments)
+$ git checkout master
+Switched to branch 'master'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master|MERGING)
+$ git commit -m "update"
+[master 4dc3811] update
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git merge html-assignments
+Already up to date.
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git branch --delete html-assignments
+Deleted branch html-assignments (was f239c29).
+
+
+
+
+
+                         Section 2
+
+
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master|MERGING)
+$ git commit -m "update"
+[master 4dc3811] update
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git merge html-assignments
+Already up to date.
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git branch --delete html-assignments
+Deleted branch html-assignments (was f239c29).
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ ^C
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ ^C
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ ^C
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ ^C
+
+
+
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git branch css-assignments
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git checkout css-aasignments
+error: pathspec 'css-aasignments' did not match any file(s) known to git
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git checkout css-assignments
+Switched to branch 'css-assignments'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (css-assignments)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (css-assignments)
+$ git commit -m "style"
+[css-assignments 4b5563e] style
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+)
+ create mode 100644 myapp.css
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (css-assignments)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (css-assignments)
+$ git commit -m "change"
+[css-assignments 42ce0f2] change
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 deletions(-)
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (css-assignments)
+$ git checkout master
+Switched to branch 'master'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git commit -m "line3"
+[master 88e62c7] line3
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git checkout css-assignments
+Switched to branch 'css-assignments'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (css-assignments)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (css-assignments)
+$ git commit -m "orange"
+[css-assignments 581701c] orange
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (css-assignments)
+$ git checkout master
+Switched to branch 'master'
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git merge css-assignments
+Auto-merging README.txt
+CONFLICT (content): Merge conflict in README.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master|MERGING)
+$ git branch --delete css-assignments
+error: The branch 'css-assignments' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D css-assignments'.
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master|MERGING)
+$ git branch -D css-assignments
+Deleted branch css-assignments (was 581701c).
+
+
+                  Section 3
+
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git checkout js-assignments
+Switched to branch 'js-assignments'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (js-assignments)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (js-assignments)
+$ git commit -m "think"
+[js-assignments 35f4501] think
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+ create mode 100644 in.js
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (js-assignments)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (js-assignments)
+$ git commit -m "remove"
+[js-assignments 3d49e87] remove
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (js-assignments)
+$ git checkout master
+Switched to branch 'master'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git commit -m "add"
+[master 390841f] add
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git checkout js-assignments
+Switched to branch 'js-assignments'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (js-assignments)
+$ git add .
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (js-assignments)
+$ git commit -m "help"
+[js-assignments 6e66d69] help
+ Committer: Patil <ketaki-vasudev.patil@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (js-assignments)
+$ git checkout master
+Switched to branch 'master'
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master)
+$ git merge js-assignments
+Auto-merging README.txt
+CONFLICT (content): Merge conflict in README.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+
+ketakpat@LIN19005240 MINGW64 ~/Assignments (master|MERGING)
+$ git branch --delete js-assignments
+error: The branch 'js-assignments' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D js-assignments'.
+
+
+
+
+
+
+
+
+
+
+
+

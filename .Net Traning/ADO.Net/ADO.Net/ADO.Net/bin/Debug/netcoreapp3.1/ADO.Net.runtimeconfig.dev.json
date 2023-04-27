@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RUUMBARK\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RUUMBARK\\.nuget\\packages"
+    ]
+  }
+}

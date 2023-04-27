@@ -1,0 +1,15 @@
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\bin\Debug\net5.0\Assignment 8 B.exe
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\bin\Debug\net5.0\Assignment 8 B.deps.json
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\bin\Debug\net5.0\Assignment 8 B.runtimeconfig.json
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\bin\Debug\net5.0\Assignment 8 B.runtimeconfig.dev.json
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\bin\Debug\net5.0\Assignment 8 B.dll
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\bin\Debug\net5.0\ref\Assignment 8 B.dll
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\bin\Debug\net5.0\Assignment 8 B.pdb
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\obj\Debug\net5.0\Assignment 8 B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\obj\Debug\net5.0\Assignment 8 B.AssemblyInfoInputs.cache
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\obj\Debug\net5.0\Assignment 8 B.AssemblyInfo.cs
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\obj\Debug\net5.0\Assignment 8 B.csproj.CoreCompileInputs.cache
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\obj\Debug\net5.0\Assignment 8 B.dll
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\obj\Debug\net5.0\ref\Assignment 8 B.dll
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\obj\Debug\net5.0\Assignment 8 B.pdb
+C:\Users\KETAKPAT\source\repos\Assignment 8 B\Assignment 8 B\obj\Debug\net5.0\Assignment 8 B.genruntimeconfig.cache

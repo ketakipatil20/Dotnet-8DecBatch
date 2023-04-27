@@ -1,0 +1,37 @@
+select * from Customer
+select * from Item
+select * from [Order]
+select * from Product
+select * from Employee
+
+
+
+1) Select * from customer
+   where Country='Germany'
+
+2) Select FirstName , LastName from employee;
+
+3) Select * from Customer
+where FaxNumber is Not Null;
+
+4) select FirstName,LastName 
+from Customer where SUBSTRING(FirstName, 2 , 1) = 'U';
+
+5) Select * from Item
+where unitPrice between 10 and 20;
+
+6)Select * from [Order]
+where shippingDate is not null
+[Order] by shippingDate ASC;
+
+7)select * from Product
+where SupplierName = 'Exotic Liquid';
+
+8)select Products.ProductID, Products.ProductName, avg(quantity) 
+ from OrderDetails join Products
+ where OrderDetails.ProductID = Products.ProductID 
+ group by Products.ProductID , Products.ProductName
+
+9) Select * from  Employee
+where Manager is not null;
+

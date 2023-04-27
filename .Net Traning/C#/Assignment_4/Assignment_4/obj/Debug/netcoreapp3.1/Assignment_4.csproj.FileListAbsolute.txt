@@ -1,0 +1,14 @@
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\bin\Debug\netcoreapp3.1\Assignment_4.exe
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\bin\Debug\netcoreapp3.1\Assignment_4.deps.json
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\bin\Debug\netcoreapp3.1\Assignment_4.runtimeconfig.json
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\bin\Debug\netcoreapp3.1\Assignment_4.runtimeconfig.dev.json
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\bin\Debug\netcoreapp3.1\Assignment_4.dll
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\bin\Debug\netcoreapp3.1\Assignment_4.pdb
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\obj\Debug\netcoreapp3.1\Assignment_4.csproj.AssemblyReference.cache
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\obj\Debug\netcoreapp3.1\Assignment_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\obj\Debug\netcoreapp3.1\Assignment_4.AssemblyInfoInputs.cache
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\obj\Debug\netcoreapp3.1\Assignment_4.AssemblyInfo.cs
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\obj\Debug\netcoreapp3.1\Assignment_4.csproj.CoreCompileInputs.cache
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\obj\Debug\netcoreapp3.1\Assignment_4.dll
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\obj\Debug\netcoreapp3.1\Assignment_4.pdb
+C:\Users\KETAKPAT\.NET\Assignment_4\Assignment_4\obj\Debug\netcoreapp3.1\Assignment_4.genruntimeconfig.cache

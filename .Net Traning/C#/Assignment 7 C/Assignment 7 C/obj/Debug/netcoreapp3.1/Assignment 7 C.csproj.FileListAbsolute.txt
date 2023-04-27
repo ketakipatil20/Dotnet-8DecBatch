@@ -1,0 +1,13 @@
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\bin\Debug\netcoreapp3.1\Assignment 7 C.exe
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\bin\Debug\netcoreapp3.1\Assignment 7 C.deps.json
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\bin\Debug\netcoreapp3.1\Assignment 7 C.runtimeconfig.json
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\bin\Debug\netcoreapp3.1\Assignment 7 C.runtimeconfig.dev.json
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\bin\Debug\netcoreapp3.1\Assignment 7 C.dll
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\bin\Debug\netcoreapp3.1\Assignment 7 C.pdb
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\obj\Debug\netcoreapp3.1\Assignment 7 C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\obj\Debug\netcoreapp3.1\Assignment 7 C.AssemblyInfoInputs.cache
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\obj\Debug\netcoreapp3.1\Assignment 7 C.AssemblyInfo.cs
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\obj\Debug\netcoreapp3.1\Assignment 7 C.csproj.CoreCompileInputs.cache
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\obj\Debug\netcoreapp3.1\Assignment 7 C.dll
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\obj\Debug\netcoreapp3.1\Assignment 7 C.pdb
+C:\Users\KETAKPAT\.NET\Assignment 7 C\Assignment 7 C\obj\Debug\netcoreapp3.1\Assignment 7 C.genruntimeconfig.cache

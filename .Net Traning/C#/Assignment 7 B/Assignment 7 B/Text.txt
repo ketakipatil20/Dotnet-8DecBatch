@@ -1,0 +1,3 @@
+Customer Name:aja
+Account Number:1
+Balance:198

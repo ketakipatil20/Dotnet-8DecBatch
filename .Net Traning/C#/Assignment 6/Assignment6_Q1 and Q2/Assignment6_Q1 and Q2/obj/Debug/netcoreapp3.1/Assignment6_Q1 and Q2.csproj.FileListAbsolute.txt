@@ -1,0 +1,14 @@
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\bin\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.exe
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\bin\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.deps.json
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\bin\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.runtimeconfig.json
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\bin\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.runtimeconfig.dev.json
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\bin\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.dll
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\bin\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.pdb
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\obj\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.csproj.AssemblyReference.cache
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\obj\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\obj\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.AssemblyInfoInputs.cache
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\obj\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.AssemblyInfo.cs
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\obj\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.csproj.CoreCompileInputs.cache
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\obj\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.dll
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\obj\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.pdb
+C:\Users\KETAKPAT\.NET\Assignment6_Q1 and Q2\Assignment6_Q1 and Q2\obj\Debug\netcoreapp3.1\Assignment6_Q1 and Q2.genruntimeconfig.cache

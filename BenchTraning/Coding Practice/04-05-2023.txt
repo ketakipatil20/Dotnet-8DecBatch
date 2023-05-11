@@ -1,0 +1,169 @@
+46.Find the array pairs whose sum is equal to the given number.
+
+using System;
+public class Main
+{
+    public static void findPair(int[] nums, int target)
+    {
+        for (int i = 0; i < nums.Length - 1; i++)
+        {
+            for (int j = i + 1; j < nums.Length; j++)
+            {
+                if (nums[i] + nums[j] == target)
+                {
+                    Console.Write("Pair found ({0}, {1})",nums[i],nums[j]);
+                    return;
+                }
+            }
+        }
+        Console.WriteLine(string.Join(", ","Pair not found"));
+    }
+    public static void Main(string[] args)
+    {
+        var nums = {8, 7, 2, 5, 3, 1};
+        var target = 10;
+        Main.findPair(nums, target);
+    }
+}
+
+
+47. Write a  program to divide a string in n equal parts in c#
+
+using System;
+ 
+class Program {
+ 
+    
+    static void divideString(String str, int n)
+    {
+        int str_size = str.Length;
+        int part_size;
+ 
+        // Check if string
+        // can be divided in
+        // n equal parts
+        if (str_size % n != 0) {
+            Console.Write("Invalid Input: String size" + "is not divisible by n");
+            return;
+        }
+ 
+        // Calculate the size
+        // of parts to find
+        // the division points
+        part_size = str_size / n;
+ 
+        for (int i = 0; i < str_size; i++) {
+            if (i % part_size == 0)
+                Console.WriteLine();
+            Console.Write(str[i]);
+        }
+    }
+ 
+    // Driver Code
+    static void Main()
+    {
+ 
+        // length of string is 28
+        String str = "a_simple_divide_string_quest";
+ 
+        divideString(str, 4);
+    }
+}
+
+
+48. Write a Java program to count and print all the duplicates in the input string.
+
+using System;
+ 
+class GFG
+{
+     
+    static int NO_OF_CHARS = 256;
+     
+    /* Fills count array with
+       frequency of characters */
+    static void fillCharCounts(String str,
+                                 int[] count)
+    {
+        for (int i = 0; i < str.Length; i++)
+            count[str[i]]++;
+    }
+     
+    /* Print duplicates present in
+    the passed string */
+    static void printDups(String str)
+    {
+         
+        // Create an array of size 256 and
+        // fill count of every character in it
+        int []count = new int[NO_OF_CHARS];
+        fillCharCounts(str, count);
+     
+        for (int i = 0; i < NO_OF_CHARS; i++)
+            if(count[i] > 1)
+                Console.WriteLine((char)i + ", " + "count = " + count[i]);
+    }
+     
+    // Driver Method
+    public static void Main()
+    {
+        String str = "test string";
+        printDups(str);
+    }
+}
+
+
+49.Write a program to check whether a given string starts with the contents of another string
+using System;
+public class Exercise
+{
+    public static void Main(string[] args)
+    {
+        var str1 = "Red is favorite color.";
+        var str2 = "Orange is also my favorite color.";
+        var startStr = "Red";
+        var starts1 = str1.StartsWith(startStr);
+        var starts2 = str2.StartsWith(startStr);
+        Console.WriteLine(string.Join(", ",str1 + " starts with " + startStr + "? " + starts1.ToString()));
+        Console.WriteLine(string.Join(", ",str2 + " starts with " + startStr + "? " + starts2.ToString()));
+    }
+}
+
+
+
+50. WAP to print Diamond pattern
+using System;  
+public class Exercise31  
+{  
+    public static void Main()
+{
+   int i,j,r;
+   
+	Console.Write("\n\n");
+    Console.Write("Display the pattern like diamond:\n");
+    Console.Write("-----------------------------------");
+    Console.Write("\n\n");     
+   
+   Console.Write("Input number of rows (half of the diamond) :");
+   r = Convert.ToInt32(Console.ReadLine());   
+   for(i=0;i<=r;i++)
+   {
+     for(j=1;j<=r-i;j++)
+     Console.Write(" ");
+     for(j=1;j<=2*i-1;j++)
+     Console.Write("*");
+     Console.Write("\n");
+   }
+ 
+   for(i=r-1;i>=1;i--)
+   {
+     for(j=1;j<=r-i;j++)
+     Console.Write(" ");
+     for(j=1;j<=2*i-1;j++)
+       Console.Write("*");
+     Console.Write("\n");
+   }
+  }
+}
+
+
